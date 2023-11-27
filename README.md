@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniervs
 - 👀 I’m interested in mathematics, algorithms, optimization, and machine learning.
-- 🌱 I’m currently working on the field of physical simulation of garments.
+- 🌱 Currently working with Deep learning.
 - 💞️ I’m looking to collaborate on scientific research on computer science or machine learning.
 - 📫 How to reach me:
   - My <a href="https://twitter.com/aniervs">Twitter </a>
