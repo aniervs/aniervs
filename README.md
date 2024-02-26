@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniervs
 - 👀 I’m interested in mathematics, algorithms, optimization, and machine learning.
-- 🌱 Currently working with Deep learning.
-- 💞️ I’m looking to collaborate on scientific research on computer science or machine learning.
+- 🌱 Currently exploring Machine Learning theory.
+- 💞️ I’m looking to collaborate on scientific research on machine learning.
 - 📫 How to reach me:
   - My <a href="https://twitter.com/aniervs">Twitter </a>
   - My <a href="https://t.me/aniervs">Telegram</a>
