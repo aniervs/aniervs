@@ -3,10 +3,9 @@
 - 🌱 Currently exploring Machine Learning theory.
 - 💞️ I’m looking to collaborate on scientific research on machine learning.
 - 📫 How to reach me:
-  - My <a href="https://twitter.com/aniervs">Twitter </a>
-  - My <a href="https://t.me/aniervs">Telegram</a>
-  - My <a href="https://www.linkedin.com/in/aniervs/">Linkedin </a>
-  - My [email](mailto:anier.velasco@gmail.com)
+  - Twitter: <a href="https://twitter.com/aniervs">twitter.com/aniervs</a>
+  - Linkedin: <a href="https://www.linkedin.com/in/aniervs/">linkedin.com/in/aniervs</a>
+  - Email: [anier.velasco@gmail.com](mailto:anier.velasco@gmail.com)
 
 <!---
 aniervs/aniervs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
