@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Anier
-- 💻 I work as an AI Data Engineer
+- 👋 Hi, I’m Anier.
+- 💻 I work as an AI Data Engineer.
 - 👀 I'm interested in mathematics, algorithms, and machine learning.
 - 🌱 Currently exploring Machine Learning theory (geometry, topology, training dynamics, complexity, computability, ...).
 - 📫 How to reach me:
