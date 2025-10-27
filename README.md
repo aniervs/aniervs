@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anier.
 - 💻 I work as an AI Data Engineer.
 - 👀 I'm interested in mathematics, algorithms, and machine learning.
-- 🌱 Currently exploring Machine Learning theory (geometry, topology, training dynamics, complexity, computability, ...).
+- 🌱 Currently exploring GNNs, Algorithmic Reasoning, ...
 - 📫 How to reach me:
   - Twitter: <a href="https://twitter.com/aniervs">twitter.com/aniervs</a>
   - Linkedin: <a href="https://www.linkedin.com/in/aniervs/">linkedin.com/in/aniervs</a>
-  - Email: [anier.velasco@gmail.com](mailto:anier.velasco@gmail.com)
+  - Email: `📧 anier.velasco [at] gmail [dot] com`
